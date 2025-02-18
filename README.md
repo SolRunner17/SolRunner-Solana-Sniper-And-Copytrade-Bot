@@ -9,7 +9,7 @@
 
 > *Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI or Pump.fun for swapping.*
 
-Official Website: [SolRunner.bot](https://solrunner.dev/)
+Official Website: [SolRunner.dev](https://solrunner.dev/)
 
 
 # Features 🤖
