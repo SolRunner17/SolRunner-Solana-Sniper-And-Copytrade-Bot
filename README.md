@@ -1,5 +1,3 @@
-![Banner](https://solrunner.bot/images/solrunner-text.png)
-
 ## SolRunner Solana Bot
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
@@ -7,11 +5,11 @@
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
 
 
-[**SolRunner**](https://solrunner.bot/) that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
+[**SolRunner**](https://solrunner.dev/) that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
 
 > *Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI or Pump.fun for swapping.*
 
-Official Website: [SolRunner.bot](https://solrunner.bot/)
+Official Website: [SolRunner.bot](https://solrunner.dev/)
 
 
 # Features 🤖
@@ -35,7 +33,7 @@ First step:
 ## Configure settings file 📝 
 You can easily edit settings from the beautiful UI we built!
 
-![](https://solrunner.bot/images/solrunner-tool.png)
+![](https://i.imgur.com/PTcYUec.png)
 
 ## Auto Sell 📈
 By default, auto sell is enabled. If you want to disable it, you need to:
@@ -61,7 +59,7 @@ There is no guarantee that the token will be sold at a profit or even sold at al
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
 
 ## Help 📮
-Discord: @SolRunner
+Telegram: [@SolRunner](https://t.me/solthunders)
 
 ## Website 🌐
-[SolRunner.bot](https://solrunner.bot/)
+[SolRunner.dev](https://solrunner.dev/)
